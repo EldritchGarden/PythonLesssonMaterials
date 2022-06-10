@@ -16,3 +16,4 @@ folder.
 * [Download Thonny](https://thonny.org/)
 * [PythonTutor](https://pythontutor.com/)
 * [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/?ref=ghm)
+* [Harvard CS50P](https://cs50.harvard.edu/python)
