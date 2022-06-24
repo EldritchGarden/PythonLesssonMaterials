@@ -1,0 +1,17 @@
+questions and hw from last week
+
+Syntax:
+	Key words
+	Code blocks
+	comments
+	strings and quote types
+	line continuation
+
+Variables:
+	naming conventions
+	creating/defining variables
+	types and the type() function
+	Operators definition and examples
+	Typecasting
+
+	introduce input() function for hw

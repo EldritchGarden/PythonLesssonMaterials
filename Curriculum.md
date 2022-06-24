@@ -6,16 +6,22 @@ This curriculum is subject to change.
     * Installing Python and Thonny
     * Hello World
 2. Variables, data types, operators
+    * Syntax
     * Defining variables
     * Data types
-    * Scope
     * Operators
     * Typecasting
-3. Control Flow
+3. Functions
+    * What is a function, and why
+    * Defining and running functions
+    * Passing arguments & variable scope
+    * The return statement
+4. Control Flow
     * Loops
     * Decision making
     * Continue/break
-4. Lists, dictionaries, strings
+    * Variable scope
+5. Lists, dictionaries, strings
     *  Lists/tuples
         * What are they
         * Common methods
@@ -25,12 +31,6 @@ This curriculum is subject to change.
         * F-strings
         * Common methods
         * Slicing
-5. Functions
-    * What is a function, and why
-    * Defining and running functions
-    * Passing arguments & variable scope
-    * The return statement
-    * Brief touch on recursion
 6. Classes and OOP
     * Difference between classes and functions
     * Class variables and methods
